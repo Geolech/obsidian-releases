@@ -53793,5 +53793,12 @@
     "author": "LiShaocheng",
     "description": "Drag and rearrange Markdown blocks inside a note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "exbob/obsidian-tiny-dragger"
+  },
+  {
+    "id": "local-ollama-websearch",
+    "name": "Local Ollama with Web Search",
+    "author": "Frank Lechtenberg",
+    "description": "Chat with local Ollama AI models directly in Obsidian. Includes built-in DuckDuckGo web search – no API key, no cloud, no telemetry.",
+    "repo": "Geolech/obsidian-local-ollama"
   }
 ]
